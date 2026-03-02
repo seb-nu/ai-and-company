@@ -1,0 +1,9 @@
+{
+  "name": "ai-and-company",
+  "version": "0.1.0",
+  "description": "AI&Company: MBB-style consulting PowerPoint toolkit with Pyramid Principle, MECE structuring, action titles, and professional slide craft",
+  "author": {
+    "name": "Seb"
+  },
+  "keywords": ["consulting", "powerpoint", "McKinsey", "BCG", "Bain", "pyramid principle", "MECE", "slides", "presentations", "AI&Company"]
+}
