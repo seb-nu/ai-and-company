@@ -51,9 +51,10 @@ Run all seven sections on each slide. Flag every failed item with the slide numb
 
 ### C. Typography & Formatting
 
-- [ ] Title font size ≥ 24pt
-- [ ] Body text font size ≥ 16pt
-- [ ] Source/footnote font size ≥ 10pt
+- [ ] Title font size 24pt
+- [ ] Body text font size: 16pt (L1), 14pt (L2), 12pt (L3), 11pt (L4–L5)
+- [ ] Source/footnote font size 6pt
+- [ ] Chart label / annotation font size 14–16pt
 - [ ] Capitalization style is consistent with the rest of the deck (title case or sentence case — never mixed on the same slide)
 - [ ] Bullet punctuation is consistent: either all bullets end with a period or none do — no mixing
 - [ ] No more than 2 distinct font sizes in the body area of a single slide

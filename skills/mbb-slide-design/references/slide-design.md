@@ -8,13 +8,12 @@ _Visual and formatting standards used in MBB consulting deliverables._
 
 | Element | Guideline |
 |---|---|
-| Slide title (action title) | 24–28pt, bold, one line if possible, two lines is ok |
-| Body text | 16–18pt |
+| Slide title (action title) | 24pt, bold, one line if possible, two lines is ok |
+| Body text | 16pt (L1) · 14pt (L2) · 12pt (L3) · 11pt (L4–L5) |
 | Chart labels / annotations | 14–16pt |
-| Footnotes / sources | 10–12pt |
+| Footnotes / sources | 6pt |
 | Font family | Arial (or client brand font) |
 
-Never go below 12pt for any text a reader is expected to read.
 If text doesn't fit at 16pt, the slide has too much content — cut content, don't shrink font.
 
 ---
@@ -82,7 +81,7 @@ content atoms: bullet arguments, charts, tables, callout boxes, timelines, icon+
 Use when the insight is carried by one artefact (one big chart, one framework, one visual).
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  [Action Title]                              22pt black   │
+│  [Action Title]                              24pt black   │
 │  ────────────────────────────────────────────────────    │
 │                                                          │
 │  ┌──────────────────────────────────────────────────┐   │
@@ -98,7 +97,7 @@ Use when contrasting or comparing two equally weighted ideas. Panels can carry
 *different* content types (e.g., left = bullet arguments, right = bar chart).
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  [Action Title]                              22pt black   │
+│  [Action Title]                              24pt black   │
 │  ────────────────────────────────────────────────────    │
 │                                                          │
 │  [Subtitle A — insight sentence]  [Subtitle B — insight] │
@@ -116,7 +115,7 @@ Use when proving three MECE components of the same argument. Same rule applies:
 each panel can hold a different content type.
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  [Action Title]                              22pt black   │
+│  [Action Title]                              24pt black   │
 │  ────────────────────────────────────────────────────    │
 │                                                          │
 │  [Subtitle A]       [Subtitle B]       [Subtitle C]      │
