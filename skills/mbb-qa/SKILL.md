@@ -93,18 +93,20 @@ Run all seven sections on each slide. Flag every failed item with the slide numb
 - [ ] Chart title expresses an insight, not an axis label — "Acquisition cost doubled since 2022" passes; "CAC 2019–2024" fails
 - [ ] Chart type matches the message:
   - Trend over time → line chart
-  - Comparison (few items) → bar or column chart
-  - Part-to-whole → stacked bar or pie (pie only if ≤ 3 segments)
+  - Comparison (few items) → horizontal bar chart
+  - Part-to-whole → stacked bar (pie charts are strongly discouraged — flag any pie chart and recommend stacked bar)
   - Ranking → horizontal bar chart
   - Variance / bridge → waterfall chart
   - Correlation → scatter plot
   - Geographic distribution → map
+- [ ] **No pie chart** — flag any pie chart as strongly discouraged; recommend stacked bar for part-to-whole; escalate as "Should fix"
+- [ ] **No vertical / column chart** — flag any column chart as strongly discouraged; recommend horizontal bar chart; escalate as "Should fix"
 - [ ] Source footnote present on the chart (in addition to any slide-level footnote)
 - [ ] No 3D effects on any chart element
 - [ ] No more than 4 colors used in a single chart
-- [ ] No redundant legend when data labels are already on bars, lines, or pie segments
+- [ ] No redundant legend when data labels are already on bars, lines, or segments
 - [ ] Key data point (the one proving the title) has an annotation or callout box pointing to it
-- [ ] Y-axis starts at 0 for bar and column charts — flag if it doesn't (truncated axes mislead); an exception is allowed only if the deviation from zero is itself the story, and that must be noted
+- [ ] Y-axis starts at 0 for bar charts — flag if it doesn't (truncated axes mislead); an exception is allowed only if the deviation from zero is itself the story, and that must be noted
 - [ ] No excess gridlines (remove horizontal gridlines if data labels are present)
 - [ ] Axis labels carry units in the header, not repeated in every tick mark or cell
 
@@ -127,5 +129,5 @@ Run all seven sections on each slide. Flag every failed item with the slide numb
 After running the checklist on all slides, escalate issues in three tiers:
 
 **Must fix** — factual errors, numerical inconsistencies, missing required elements (title, source, slide number), overlapping content obscuring information
-**Should fix** — grammar errors, terminology inconsistencies, bullet punctuation mixing, chart type mismatches
+**Should fix** — grammar errors, terminology inconsistencies, bullet punctuation mixing, chart type mismatches (including use of pie charts or vertical/column charts)
 **Consider improving** — consulting quality flags (descriptive titles, chart echo, MECE gaps, self-contained issues)

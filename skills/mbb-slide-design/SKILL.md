@@ -94,12 +94,17 @@ Match the chart type to the message being communicated:
 |---|---|
 | Trend over time | Line chart |
 | Part-to-whole | Stacked bar |
-| Comparison (few items) | Bar or column chart |
+| Comparison (few items) | Horizontal bar chart |
 | Correlation | Scatter plot |
 | Ranking | Horizontal bar chart |
 | Variance / bridge | Waterfall chart |
 | Process / flow | Swimlane or flowchart |
 | Geographic distribution | Map |
+
+> **Strongly discouraged:** Pie charts and vertical/column charts.
+> - **Pie charts** obscure relative magnitudes and require the reader to decode angles — always use a stacked bar for part-to-whole.
+> - **Vertical / column charts** compress category labels and make ranking harder to read — always use a horizontal bar chart instead.
+> These chart types should only be used if a client template explicitly requires them, and the reason must be noted.
 
 **Chart title = the insight, not the axis label.**
 Write "Customer acquisition cost doubled since 2022" — not "CAC 2019–2024."

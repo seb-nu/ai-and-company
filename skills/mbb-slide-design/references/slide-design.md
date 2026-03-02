@@ -49,7 +49,8 @@ If text doesn't fit at 16pt, the slide has too much content — cut content, don
 - 3D effects on any chart type
 - Gridlines heavier than 0.5pt
 - More than 6 data series on one chart
-- Pie charts with more than 5 slices
+- Pie charts (strongly discouraged — use stacked bar for part-to-whole; pie charts obscure magnitude comparison and should only be used if a client template explicitly requires them)
+- Vertical / column charts (strongly discouraged — use horizontal bar charts; they are easier to read, allow longer category labels, and make ranking comparisons clearer)
 - Dual Y-axes (almost always possible to split into two charts)
 
 ### Annotation Best Practice
@@ -158,6 +159,8 @@ Standard MBB footer contains (left to right):
 | Cluttered chart with 8+ series | Split into two charts or use a different chart type |
 | Bullet points in a list of 8 | Group into 2–3 buckets with headers (MECE check) |
 | Decorative icons | Remove; they add noise without information |
+| Pie chart used for part-to-whole | Replace with a stacked bar chart; pie charts hide magnitude differences |
+| Vertical / column chart used | Replace with horizontal bar chart; labels fit better and ranking reads naturally top-to-bottom |
 
 ---
 
