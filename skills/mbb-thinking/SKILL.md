@@ -51,11 +51,13 @@ See `${CLAUDE_PLUGIN_ROOT}/skills/mbb-thinking/references/mece-framework.md` for
 
 ### 3. SCR Storyline (Situation–Complication–Resolution)
 
-Use SCR to frame the overall deck narrative:
+Use SCR to shape and pressure-test the narrative logic internally — it is a thinking framework for the consultant, not a labeling system for slides. The audience should never see slides titled "Situation", "Complication", or "Resolution".
 
 - **Situation**: Context the audience already accepts ("Our costs have risen 20% YoY")
 - **Complication**: The tension or problem that disrupts the situation ("Revenue grew only 8%")
 - **Resolution**: Your recommendation or answer ("We must cut $40M in OpEx by Q3")
+
+The SCR logic shapes which content goes where and in what order; the slides themselves carry insight-driven action titles.
 
 ### 4. Horizontal Logic (Slide-to-Slide)
 
@@ -75,9 +77,9 @@ If the title says "Costs are growing faster than revenue," every element on that
 1. Title slide
 2. Executive Summary (the full answer in one slide)
 3. Agenda
-4. Situation (2–3 slides)
-5. Complication (2–3 slides)
-6. Resolution / Recommendations (3–5 slides)
+4. Context-setting slides (2–3) — SCR "Situation" in your thinking
+5. Problem/tension slides (2–3) — SCR "Complication" in your thinking
+6. Recommendation slides (3–5) — SCR "Resolution" in your thinking
 7. Implementation roadmap
 8. Appendix / Backup
 

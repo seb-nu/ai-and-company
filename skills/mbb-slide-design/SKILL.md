@@ -79,8 +79,6 @@ Each slide should have:
 | Title slide | Cover; includes client name, date, confidentiality |
 | Agenda / Roadmap | Show structure; revisit between major sections |
 | Executive Summary | Full answer on one slide (pyramid top) |
-| Situation slide | Establish accepted context |
-| Complication slide | Introduce the tension or problem |
 | Recommendation slide | State the answer and implications |
 | Process / Timeline | Show sequencing or phased delivery |
 | Data / Chart slide | One chart, one insight |

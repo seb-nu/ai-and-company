@@ -33,9 +33,10 @@ Rules for the governing thought:
 
 If the user hasn't stated a clear position yet, offer 2–3 governing thought options and ask them to choose or refine.
 
-## Step 2 — Apply the SCR Frame
+## Step 2 — Apply the SCR Frame (internal thinking only)
 
-Express the governing thought in context:
+Use SCR to pressure-test the narrative logic — this is a thinking tool, not a labeling system for slides. Do not surface these labels to the audience.
+
 - **Situation**: What is the accepted context? (1–2 sentences the audience already agrees with)
 - **Complication**: What is the tension or problem that makes the governing thought necessary? (1–2 sentences)
 - **Resolution**: Restate the governing thought as the answer to the complication. (1 sentence)
@@ -76,7 +77,7 @@ Deliver the structured argument as:
 GOVERNING THOUGHT
 [One sentence — the full recommendation]
 
-STORYLINE (SCR)
+NARRATIVE LOGIC (internal — do not label slides with these terms)
 Situation: [1–2 sentences]
 Complication: [1–2 sentences]
 Resolution: [= governing thought]
@@ -97,7 +98,7 @@ PYRAMID STRUCTURE
 PROPOSED SLIDE ACTION TITLES
 Slide 1: [Title slide]
 Slide 2: [Executive Summary = Governing Thought]
-Slide 3: [Situation]
+Slide 3: [Action title — context/situation content]
 ...
 ```
 

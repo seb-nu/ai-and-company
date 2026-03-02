@@ -39,10 +39,10 @@ Do not start structuring until you have answers to all three.
 ## Step 2 — Draft the Storyline
 
 Before writing any slide body content, create the full action-title outline internally:
-- Apply SCR framing: Situation → Complication → Resolution
+- Use SCR (Situation → Complication → Resolution) as your internal thinking scaffold to shape the narrative — do not label slides with these terms
 - Write one action title per slide (complete sentences expressing insights, not topics)
 - Aim for 8–20 slides depending on brief complexity
-- Include: Title, Executive Summary, Agenda, Situation (2–3 slides), Complication (2–3 slides), Recommendation (3–5 slides), Next Steps
+- Include: Title, Executive Summary, Agenda, context-setting slides (2–3), problem/tension slides (2–3), recommendation slides (3–5), Next Steps
 
 Do not present the storyline to the user yet. Proceed directly to Step 3.
 
@@ -51,7 +51,7 @@ Do not present the storyline to the user yet. Proceed directly to Step 3.
 Read the action titles sequentially as if they were sentences in a paragraph. Verify:
 - The story flows logically from slide to slide
 - The Executive Summary action title = the governing thought (the full recommendation)
-- All Situation/Complication slides set up the Resolution slides
+- All context and tension slides set up the recommendation slides
 - MECE check: are the major sections mutually exclusive and collectively exhaustive?
 
 Fix any gaps. Then present the finalised storyline to the user as a numbered list of action titles only.
