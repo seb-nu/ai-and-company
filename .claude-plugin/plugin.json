@@ -5,5 +5,15 @@
   "author": {
     "name": "Seb"
   },
-  "keywords": ["consulting", "powerpoint", "McKinsey", "BCG", "Bain", "pyramid principle", "MECE", "slides", "presentations", "AI&Company"]
+  "homepage": "https://github.com/seb-nu/ai-and-company",
+  "repository": "https://github.com/seb-nu/ai-and-company",
+  "license": "MIT",
+  "keywords": ["consulting", "powerpoint", "McKinsey", "BCG", "Bain", "pyramid principle", "MECE", "slides", "presentations", "AI&Company"],
+  "commands": "./commands",
+  "skills": [
+    "./skills/mbb-thinking",
+    "./skills/mbb-slide-design",
+    "./skills/mbb-template",
+    "./skills/mbb-qa"
+  ]
 }

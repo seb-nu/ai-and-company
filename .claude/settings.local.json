@@ -5,7 +5,12 @@
       "Bash(powershell -Command \":*)",
       "Bash(python3 -c \":*)",
       "Bash(py -3 -c \":*)",
-      "Bash(ls \"c:/Users/Admin/Documents/Claude Projects/Plugin - Claude&Company/\")"
+      "Bash(ls \"c:/Users/Admin/Documents/Claude Projects/Plugin - Claude&Company/\")",
+      "Bash(ls -la \"c:\\\\Users\\\\Admin\\\\Documents\\\\Claude Projects\\\\Plugin - Claude&Company\\\\ai-and-company\\\\skills\\\\mbb-qa\")",
+      "Bash(find \"c:\\\\Users\\\\Admin\\\\Documents\\\\Claude Projects\\\\Plugin - Claude&Company\\\\ai-and-company\\\\skills\" -type f \\\\\\( -name \"*.md\" -o -name \"*.jpg\" -o -name \"*.png\" \\\\\\))",
+      "Bash(find \"c:\\\\Users\\\\Admin\\\\Documents\\\\Claude Projects\\\\Plugin - Claude&Company\\\\ai-and-company\\\\skills\" -type f -name \"*.pptx\" -o -name \"*.md\")",
+      "Bash(find \"c:/Users/Admin/Documents/Claude Projects/Plugin - Claude&Company/ai-and-company\" -maxdepth 2 -type f -name \"*.md\")",
+      "Bash(find \"c:/Users/Admin/Documents/Claude Projects/Plugin - Claude&Company/ai-and-company/skills\" -name \"SKILL.md\" -o -name \"*.md\")"
     ]
   }
 }
