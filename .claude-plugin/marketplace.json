@@ -1,27 +1,19 @@
 {
   "name": "ai-and-company",
   "owner": {
-    "name": "Seb"
+    "name": "Seb",
+    "email": "seb-nu@users.noreply.github.com"
   },
   "metadata": {
-    "description": "MBB-style consulting PowerPoint toolkit for Claude Code"
+    "description": "MBB-style consulting PowerPoint toolkit for Claude Code",
+    "version": "0.1.0"
   },
   "plugins": [
     {
       "name": "ai-and-company",
-      "source": {
-        "source": "github",
-        "repo": "seb-nu/ai-and-company"
-      },
+      "source": "./plugins/ai-and-company",
       "description": "MBB-style consulting PowerPoint toolkit with Pyramid Principle, MECE structuring, action titles, and professional slide craft",
-      "version": "0.1.0",
-      "author": {
-        "name": "Seb"
-      },
-      "repository": "https://github.com/seb-nu/ai-and-company",
-      "license": "MIT",
-      "keywords": ["consulting", "powerpoint", "McKinsey", "BCG", "Bain", "pyramid principle", "MECE", "slides"],
-      "category": "productivity"
+      "version": "0.1.0"
     }
   ]
 }

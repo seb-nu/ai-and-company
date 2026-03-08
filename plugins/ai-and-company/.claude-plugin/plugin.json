@@ -1,0 +1,35 @@
+{
+  "name": "ai-and-company",
+  "version": "0.1.0",
+  "description": "MBB-style consulting PowerPoint toolkit with Pyramid Principle, MECE structuring, action titles, and professional slide craft",
+  "commands": [
+    "./commands/build-deck.md",
+    "./commands/structure-argument.md",
+    "./commands/improve-slide.md",
+    "./commands/slide-review.md",
+    "./commands/explore.md",
+    "./commands/setup.md"
+  ],
+  "skills": [
+    "./skills/mbb-thinking",
+    "./skills/mbb-slide-design",
+    "./skills/mbb-template",
+    "./skills/mbb-qa"
+  ],
+  "keywords": [
+    "consulting",
+    "powerpoint",
+    "McKinsey",
+    "BCG",
+    "Bain",
+    "pyramid principle",
+    "MECE",
+    "slides",
+    "presentations"
+  ],
+  "author": {
+    "name": "Seb",
+    "url": "https://github.com/seb-nu"
+  },
+  "license": "MIT"
+}
